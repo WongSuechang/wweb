@@ -1,0 +1,4 @@
+var username;
+var phone;
+var userid;
+var useruuid;
